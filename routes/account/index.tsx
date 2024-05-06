@@ -60,7 +60,7 @@ export default defineRoute<SignedInState>((_req, ctx) => {
           href="/signout?success_url=/"
           class="button-styles block text-center"
         >
-          Sign out
+          Sign out!!
         </a>
       </main>
     </>
